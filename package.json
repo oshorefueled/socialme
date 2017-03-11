@@ -1,0 +1,19 @@
+{
+  "name": "oshoklinsmann",
+  "version": "1.0.0",
+  "description": "backend for oshoklinsmann.me",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "osho klinsmann",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "request": "^2.81.0",
+    "request-promise": "^4.1.1",
+    "twitter": "^1.7.0"
+  }
+}
